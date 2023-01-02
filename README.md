@@ -1,7 +1,7 @@
 # Обо мне 
 
-<img src="https://github.com/Ishukov/About-me/blob/bd0d80d8556f4b6d337277b7c26fc3ec9d27c9f9/-bWnFtJ3kH8.png" width="200" align="left"/>
+![](https://github.com/Ishukov/About-me/blob/bd7cace61e5f432314764d0e461669b8fe0b0682/-bWnFtJ3kH8.png)
 
-Меня зовут Ишуков Сергей. Я студент Нтологии, учусь на курсе "QA инженер от нуля до middle"
+Меня зовут Ишуков Сергей. Я студент Нетологии, учусь на курсе "QA инженер от нуля до middle"
 
 Работаю ведущим инженером-электроником промышленной автоматизации в сталеплавильном комплексе FeO32 группы ТМК.
