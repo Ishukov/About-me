@@ -1,6 +1,6 @@
 # Обо мне 
 
-![](https://github.com/Ishukov/About-me/blob/bd7cace61e5f432314764d0e461669b8fe0b0682/-bWnFtJ3kH8.png)
+![](-bWnFtJ3kH8.png)
 
 Меня зовут Ишуков Сергей. Я студент Нетологии, учусь на курсе "QA инженер от нуля до middle"
 
